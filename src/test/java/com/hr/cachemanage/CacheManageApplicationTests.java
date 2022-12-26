@@ -8,6 +8,7 @@ class CacheManageApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// test
 	}
 
 }
